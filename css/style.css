@@ -450,6 +450,10 @@ NAV ENDING
 }
 
 @media only screen and (max-width: 600px) {
+  .header {
+    height: 90vh;
+  }
+  
   .header-text-box {
     align-self: center;
   }
